@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="450"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFnZ3c3Nm82YndocTJsbzBheTIweGNwcHRqZGtzMm0wcDJhMG5vMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </div>
+
 
 <h1 align="center">
   Welcome to my GitHub profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZxbWxnYTRqYW5tY2E2dHh3bmg2MjdrNzNiY2doY2xqcndmbXlleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
 </h1>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abramov0Alexandr&show_icons=true&theme=gruvbox_light)](https://github.com/Abramov0Alexandr?tab=repositories) -->
@@ -28,20 +29,8 @@
 [![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
 
 
-### My stats
-![](https://komarev.com/ghpvc/?username=AGNworks&color=3f3fff&style=for-the-badge)
-<p align="center">
-  <a href="https://github.com/AGNworks">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGNworks&theme=transparent" />
-  </a>
-  <a href="https://github.com/AGNworks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGNworks&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/AGNworks">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGNworks&theme=transparent" />
-  </a>
-
-</p>
+## 📈 GitHub Stats
+[![AGNworks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGNworks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/AGNworks)
 
 <!--
 **AGNworks/AGNworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
