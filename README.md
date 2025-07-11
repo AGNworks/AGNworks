@@ -26,11 +26,24 @@
 
 ### Using tools
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-3f3fff?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)](https://github.com/Abramov0Alexandr)
+[![Git](https://img.shields.io/badge/GIT-3f3fff?style=for-the-badge&logo=GIT&logoColor=white&labelColor=black)]
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
 ## 📈 GitHub Stats
-[![AGNworks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGNworks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/AGNworks)
+![](https://komarev.com/ghpvc/?username=AGNworks&color=3f3fff&style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/AGNworks">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGNworks&theme=transparent" />
+  </a>
+  <a href="https://github.com/AGNworks">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGNworks&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/AGNworks">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGNworks&theme=transparent" />
+  </a>
+
+</p>
 
 <!--
 **AGNworks/AGNworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
