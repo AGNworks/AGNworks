@@ -46,18 +46,11 @@
 
 ## 📈 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=AGNworks&color=3f3fff&style=for-the-badge)
-<p align="center">
-  <a href="https://github.com/AGNworks">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGNworks&theme=transparent" />
-  </a>
-  <a href="https://github.com/AGNworks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGNworks&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/AGNworks">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGNworks&theme=transparent" />
-  </a>
 
-</p>
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGNworks&theme=transparent)](https://github.com/AGNworks)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGNworks&layout=compact&theme=vision-friendly-dark)](https://github.com/AGNworks)
+
 
 <!--
 **AGNworks/AGNworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
