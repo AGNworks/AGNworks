@@ -49,7 +49,7 @@
 
 [![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGNworks&theme=transparent)](https://github.com/AGNworks)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGNworks&layout=compact&theme=vision-friendly-dark)](https://github.com/AGNworks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGNworks&layout=compact&theme=transparent&hide_border=true)](https://github.com/AGNworks)
 
 
 <!--
